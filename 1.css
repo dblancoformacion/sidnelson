@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana,Arial;
+}
+
+
+.luna{
+	background-image: url("imgs/LasLunas.jpg");
+	background-size: 400px 200px;
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	color: white;
+	float:left;
+	margin: 20px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+.chirin{
+	background-image: url("imgs/chiringuito.jpg");
+	background-size: 400px 200px;
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	color: white;
+	float:left;
+	margin: 20px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+.titulo{
+	font: 25px bold verdana,arial;
+	line-height: 25px;
+	margin-left: 25px;
+	float:left;
+	color:white;
+}
+.spacer{
+	clear:both;
+}
