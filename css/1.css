@@ -1,0 +1,34 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 25px;
+  color: #000;
+  font-weight: bold;
+}
+
+footer {
+  background: #f1f1f1;
+}
+
+section.galeria{
+  /*background-color: #B42B2B;*/
+    background-color: #991D1D;  
+}
+.kebab{
+  border-top: 1px solid #E5E4E4;
+}
+
+.fon{
+  background: #f1f1f1;
+}
+
+.arriba{
+  margin-top:60px;
+}
+
+
+.boton:hover{
+  color: white;
+}
